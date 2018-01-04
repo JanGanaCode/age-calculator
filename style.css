@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin: 2% 20%;
+  padding: 10px 0px;
+}
+
+h3 {
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin: 2% 40%;
+  padding: 10px 10px;
+}
+
+img {
+  border: 2px solid black;
+  padding: 7px 7px;
+  border-radius: 20px;
+}
